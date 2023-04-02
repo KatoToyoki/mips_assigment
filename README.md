@@ -1,4 +1,7 @@
-# MIPS homework
+# MIPS assignment
+translate each c code to MIPS code
+should follow the rules of MIPS (a, s, v, t, caller, callee)
+
 ### Q1
 ```c=
 #include <stdlib.h>
